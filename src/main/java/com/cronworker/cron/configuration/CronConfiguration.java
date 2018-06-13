@@ -7,9 +7,7 @@ import org.springframework.web.servlet.config.annotation.ViewResolverRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
-/**
- * Created by coupang on 2018. 6. 9..
- */
+
 @Configuration
 public class CronConfiguration extends WebMvcConfigurerAdapter{
 	@Override
