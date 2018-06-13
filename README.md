@@ -1,1 +1,1 @@
-# cron
+# 실행 방법:  ./graldew bootRun
